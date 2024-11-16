@@ -1,16 +1,16 @@
-## Movie Recommender System
+# Movie Recommender System
 
-# Overview
+## Overview
 
 The Movie Recommender System is a machine learning-based application designed to suggest movies tailored to user preferences. Leveraging collaborative filtering and content-based filtering techniques, this system provides personalized recommendations by analyzing user interactions, movie metadata, and ratings.
 
-# Features
+## Features
 
 - Personalized Recommendations: Suggests movies based on user preferences and past interactions.
 - Search Functionality: Allows users to search for specific movies and view details.
 - Hybrid Model: Combines collaborative filtering (user-based and item-based) with content-based filtering.
 
-# Tech Stack
+## Tech Stack
 
 - Programming Language: Python
 - Backend Framework: Flask
@@ -23,7 +23,7 @@ The Movie Recommender System is a machine learning-based application designed to
   - Streamlit: Frontend interface
   - Matplotlib and Seaborn: Visualizations
 
-# How It Works
+## How It Works
 
 - Data Preprocessing:
   Cleaned and processed movie metadata and user ratings.
